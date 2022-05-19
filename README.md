@@ -1,2 +1,1 @@
-im kaoyla
-learning how to program
+im kaoyla and im new to programming.  give tips 
